@@ -1,2 +1,3 @@
 The 1st line to type master
 2nd create branch after notepad type
+3rd create branch path
